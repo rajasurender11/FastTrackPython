@@ -57,3 +57,6 @@ print(n3)
 
 r = int(((10*2+7+9)/8)*4.4)
 print(r)
+
+f12 = 67.4
+print(round(f12))
