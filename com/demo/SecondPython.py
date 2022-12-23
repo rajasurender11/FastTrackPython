@@ -12,6 +12,7 @@ emp_name = "surender"
 m1=50
 m2=60
 m3=70
+i1=90
 
 #invoke by using its name
 def add_marks(a,b,c):
@@ -32,6 +33,7 @@ def method3():
 
 def method4():
     print("This is method 4")
+    method3()
 """
 calling place
 args --> it is something at the calling place , 2 and 3 are args 

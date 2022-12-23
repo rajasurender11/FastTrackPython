@@ -6,6 +6,7 @@ print("I'm fine , i can't ")
 
 """
 
+
 print("Welcome")
 #define  datatypes # number --> integer(int) #float # string # bool
 id = 10
@@ -58,5 +59,5 @@ print(n3)
 r = int(((10*2+7+9)/8)*4.4)
 print(r)
 
-f12 = 67.4
+f12 = 67.5
 print(round(f12))
