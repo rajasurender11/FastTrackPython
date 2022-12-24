@@ -49,3 +49,8 @@ method2(89,99)
 print(r)
 method4()
 print("program ended ")
+
+n1= 25000
+interest_rate = 7
+
+
