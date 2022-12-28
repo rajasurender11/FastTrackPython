@@ -56,4 +56,5 @@ if(len(my_num_list)<=3):
     for i in my_num_list:
         print(i)
 
+print(__name__)
 
